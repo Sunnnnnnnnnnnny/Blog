@@ -1,0 +1,34 @@
+<mxfile host="65bd71144e" pages="2">
+    <diagram id="0" name="第 1 页">
+        <mxGraphModel dx="799" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="6PifnIPa-t4-6GvL2zHf-17" value="计算机基础" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="100" y="710" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="6PifnIPa-t4-6GvL2zHf-18" value="网络" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="100" y="780" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="6PifnIPa-t4-6GvL2zHf-19" value="操作系统" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="100" y="850" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="6PifnIPa-t4-6GvL2zHf-20" value="数据结构与算法" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="100" y="920" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="React" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="520" y="810" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="JS/TS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="320" y="810" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="浏览器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="350" y="900" width="120" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="VDpDP4Txcln1U22-15g4" name="第 2 页">
+        <mxGraphModel/>
+    </diagram>
+</mxfile>
