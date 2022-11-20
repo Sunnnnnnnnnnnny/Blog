@@ -3,7 +3,7 @@
 > 使用了 GitHub 的 issues 区域来作为笔记的存储
 
 ## 浏览器
-test
+- [浏览器相关](../Blog-master/%E6%B5%8F%E8%A7%88%E5%99%A8%E7%9B%B8%E5%85%B3/index.drawio)
 
 ## 性能优化
 - [性能优化——浏览器存储](https://github.com/Sunnnnnnnnnnnny/Blog/issues/23)
